@@ -1,0 +1,1 @@
+const SAVE_FILES = 'SAVE_FILES'
